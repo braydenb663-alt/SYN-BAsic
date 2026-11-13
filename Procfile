@@ -1,1 +1,1 @@
-worker: python syn_levels_bot.py
+worker: python syn.py
